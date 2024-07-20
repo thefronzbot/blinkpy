@@ -1,19 +1,17 @@
 blinkpy |Build Status| |Coverage Status| |PyPi Version| |Codestyle|
 =============================================================================================
-A Python library for the Blink Camera system (Python 3.9+)
+Python library for Blink cameras
 
-Like the library? Consider buying me a cup of coffee!
+**NOTICE**
+This is the new home of the blinkpy library.  Old account and library are controlled by bad actors.  Please update your links accordingly.
 
-`Buy me a Coffee! <https://buymeacoffee.com/kevinfronczak>`__
+Major improvements coming soon.  Watch this space.
 
 **BREAKING CHANGE WARNING:**
 As of ``0.22.0`` the library uses asyncio which will break any user scripts used prior to this version. Please see the updated examples below and the ``blinkapp.py`` or ``blinksync.py`` examples in the ``blinkapp/`` directory for examples on how to migrate.
 
-**Disclaimer:**
-Published under the MIT license - See LICENSE file for more details.
-
-"Blink Wire-Free HS Home Monitoring & Alert Systems" is a trademark owned by Immedia Inc., see www.blinkforhome.com for more information.
-I am in no way affiliated with Blink, nor Immedia Inc.
+"Blink Wire-Free HS Home Monitoring & Alert Systems" trademark by Immedia Inc.  See www.blinkforhome.com for more information.
+I am in no way affiliated with Blink or Immedia.
 
 Original protocol hacking by MattTW : https://github.com/MattTW/BlinkMonitorProtocol
 

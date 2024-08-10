@@ -4,7 +4,9 @@ Python library for Blink cameras
 
 NOTICE
 ------
-This is the new home of the blinkpy library.  Old account and library are controlled by bad actors.  Please update your links accordingly.
+This is the new home of the blinkpy library.  
+
+⚠️ Old account and library are controlled by bad actors.  Please update your links accordingly.
 
 Major improvements coming soon.  Watch this space.
 
